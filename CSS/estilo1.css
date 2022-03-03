@@ -3,23 +3,19 @@ p
 	color:black;
 	font-family: fantasy;
 }
-h1
-{
+body{
 	color:black;
+	text-align: center;
+    font-family: Arial;
+    font-size: 20px;
+    margin: 0;
+    padding: 0;
 }
-h2
-{
-	color:black;
-}
-h3
-{
-	color:black;
-}
-a{
-	color:black;
-}
-<style>
+
 img{
 	max-width: 100%;
 }
-</style>
+
+#relleno{
+	background: rgba(60, 149, 63, 0.5)
+}
