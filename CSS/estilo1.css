@@ -15,3 +15,13 @@ img{
 #relleno{
 	background: rgba(60, 149, 63, 0.5)
 }
+
+#javascript{
+	color:black;
+	background-color: #f5f5dc ;
+	text-align: left;
+    font-family: Arial;
+    font-size: 20px;
+    margin: 0;
+    padding: 0;
+}
